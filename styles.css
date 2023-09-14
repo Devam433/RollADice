@@ -67,3 +67,51 @@ footer {
   cursor: pointer;
   background-color: #ff1e1e80
 }
+
+/* tab */
+@media (min-width:755px){
+  img{
+    width: 20vw;
+  } 
+  #verdict{
+    font-size: 4.5vw;
+
+  }
+  p{
+    font-size: 1.6rem;
+  }
+  #btn{
+    width: 22vw;
+    height: 4.5vh;
+    font-size: small;
+  }
+}
+/*  */
+
+@media (min-width:955px){
+  img{
+    width: 19vw;
+  } 
+  #verdict{
+    font-size: 3.5vw;
+
+  }
+  p{
+    font-size: 1.6rem;
+  }
+  .center{
+    height: 160px;
+  }
+  #btn{
+    width: 22vw;
+    height: 4.5vh;
+    font-size: small;
+  }
+}
+
+
+/* @media (min-width:900px){
+  img{
+    width: 15vw;
+  }
+} */
