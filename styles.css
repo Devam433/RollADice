@@ -23,13 +23,13 @@ h1 {
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
     font-size: 6vw;
-    color: #4ECCA3;
+    color: #954704;
     text-align: center;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #f9e561;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -45,7 +45,7 @@ footer {
 
 }
  #btn{
-  background-color: #4ECCA3;
+  background-color: #d61f1fe4;
   width: 50vw;
   border-radius: 23px;
   color: aliceblue;
@@ -65,5 +65,5 @@ footer {
 
 #btn:hover{
   cursor: pointer;
-  background-color: #4ecca2c3;
+  background-color: #ff1e1e80
 }
